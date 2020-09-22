@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\SocieteEnumeration\bin\Debug\netcoreapp3.1\SocieteEnumeration.exe
+C:\Users\besen\source\repos\SocieteEnumeration\bin\Debug\netcoreapp3.1\SocieteEnumeration.deps.json
+C:\Users\besen\source\repos\SocieteEnumeration\bin\Debug\netcoreapp3.1\SocieteEnumeration.runtimeconfig.json
+C:\Users\besen\source\repos\SocieteEnumeration\bin\Debug\netcoreapp3.1\SocieteEnumeration.runtimeconfig.dev.json
+C:\Users\besen\source\repos\SocieteEnumeration\bin\Debug\netcoreapp3.1\SocieteEnumeration.dll
+C:\Users\besen\source\repos\SocieteEnumeration\bin\Debug\netcoreapp3.1\SocieteEnumeration.pdb
+C:\Users\besen\source\repos\SocieteEnumeration\obj\Debug\netcoreapp3.1\SocieteEnumeration.csprojAssemblyReference.cache
+C:\Users\besen\source\repos\SocieteEnumeration\obj\Debug\netcoreapp3.1\SocieteEnumeration.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\SocieteEnumeration\obj\Debug\netcoreapp3.1\SocieteEnumeration.AssemblyInfo.cs
+C:\Users\besen\source\repos\SocieteEnumeration\obj\Debug\netcoreapp3.1\SocieteEnumeration.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\SocieteEnumeration\obj\Debug\netcoreapp3.1\SocieteEnumeration.dll
+C:\Users\besen\source\repos\SocieteEnumeration\obj\Debug\netcoreapp3.1\SocieteEnumeration.pdb
+C:\Users\besen\source\repos\SocieteEnumeration\obj\Debug\netcoreapp3.1\SocieteEnumeration.genruntimeconfig.cache
