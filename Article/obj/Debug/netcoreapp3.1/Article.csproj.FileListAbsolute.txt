@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\Article\bin\Debug\netcoreapp3.1\Article.exe
+C:\Users\besen\source\repos\Article\bin\Debug\netcoreapp3.1\Article.deps.json
+C:\Users\besen\source\repos\Article\bin\Debug\netcoreapp3.1\Article.runtimeconfig.json
+C:\Users\besen\source\repos\Article\bin\Debug\netcoreapp3.1\Article.runtimeconfig.dev.json
+C:\Users\besen\source\repos\Article\bin\Debug\netcoreapp3.1\Article.dll
+C:\Users\besen\source\repos\Article\bin\Debug\netcoreapp3.1\Article.pdb
+C:\Users\besen\source\repos\Article\obj\Debug\netcoreapp3.1\Article.csprojAssemblyReference.cache
+C:\Users\besen\source\repos\Article\obj\Debug\netcoreapp3.1\Article.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\Article\obj\Debug\netcoreapp3.1\Article.AssemblyInfo.cs
+C:\Users\besen\source\repos\Article\obj\Debug\netcoreapp3.1\Article.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\Article\obj\Debug\netcoreapp3.1\Article.dll
+C:\Users\besen\source\repos\Article\obj\Debug\netcoreapp3.1\Article.pdb
+C:\Users\besen\source\repos\Article\obj\Debug\netcoreapp3.1\Article.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\ItesciaCS\bin\Debug\netcoreapp3.1\ItesciaCS.exe
+C:\Users\besen\source\repos\ItesciaCS\bin\Debug\netcoreapp3.1\ItesciaCS.deps.json
+C:\Users\besen\source\repos\ItesciaCS\bin\Debug\netcoreapp3.1\ItesciaCS.runtimeconfig.json
+C:\Users\besen\source\repos\ItesciaCS\bin\Debug\netcoreapp3.1\ItesciaCS.runtimeconfig.dev.json
+C:\Users\besen\source\repos\ItesciaCS\bin\Debug\netcoreapp3.1\ItesciaCS.dll
+C:\Users\besen\source\repos\ItesciaCS\bin\Debug\netcoreapp3.1\ItesciaCS.pdb
+C:\Users\besen\source\repos\ItesciaCS\obj\Debug\netcoreapp3.1\ItesciaCS.csprojAssemblyReference.cache
+C:\Users\besen\source\repos\ItesciaCS\obj\Debug\netcoreapp3.1\ItesciaCS.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\ItesciaCS\obj\Debug\netcoreapp3.1\ItesciaCS.AssemblyInfo.cs
+C:\Users\besen\source\repos\ItesciaCS\obj\Debug\netcoreapp3.1\ItesciaCS.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\ItesciaCS\obj\Debug\netcoreapp3.1\ItesciaCS.dll
+C:\Users\besen\source\repos\ItesciaCS\obj\Debug\netcoreapp3.1\ItesciaCS.pdb
+C:\Users\besen\source\repos\ItesciaCS\obj\Debug\netcoreapp3.1\ItesciaCS.genruntimeconfig.cache

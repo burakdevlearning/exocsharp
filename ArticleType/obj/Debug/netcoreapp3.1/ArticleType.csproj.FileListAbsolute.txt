@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\ArticleType\bin\Debug\netcoreapp3.1\ArticleType.exe
+C:\Users\besen\source\repos\ArticleType\bin\Debug\netcoreapp3.1\ArticleType.deps.json
+C:\Users\besen\source\repos\ArticleType\bin\Debug\netcoreapp3.1\ArticleType.runtimeconfig.json
+C:\Users\besen\source\repos\ArticleType\bin\Debug\netcoreapp3.1\ArticleType.runtimeconfig.dev.json
+C:\Users\besen\source\repos\ArticleType\bin\Debug\netcoreapp3.1\ArticleType.dll
+C:\Users\besen\source\repos\ArticleType\bin\Debug\netcoreapp3.1\ArticleType.pdb
+C:\Users\besen\source\repos\ArticleType\obj\Debug\netcoreapp3.1\ArticleType.csprojAssemblyReference.cache
+C:\Users\besen\source\repos\ArticleType\obj\Debug\netcoreapp3.1\ArticleType.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\ArticleType\obj\Debug\netcoreapp3.1\ArticleType.AssemblyInfo.cs
+C:\Users\besen\source\repos\ArticleType\obj\Debug\netcoreapp3.1\ArticleType.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\ArticleType\obj\Debug\netcoreapp3.1\ArticleType.dll
+C:\Users\besen\source\repos\ArticleType\obj\Debug\netcoreapp3.1\ArticleType.pdb
+C:\Users\besen\source\repos\ArticleType\obj\Debug\netcoreapp3.1\ArticleType.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\ArticleTable\bin\Debug\netcoreapp3.1\ArticleTable.exe
+C:\Users\besen\source\repos\ArticleTable\bin\Debug\netcoreapp3.1\ArticleTable.deps.json
+C:\Users\besen\source\repos\ArticleTable\bin\Debug\netcoreapp3.1\ArticleTable.runtimeconfig.json
+C:\Users\besen\source\repos\ArticleTable\bin\Debug\netcoreapp3.1\ArticleTable.runtimeconfig.dev.json
+C:\Users\besen\source\repos\ArticleTable\bin\Debug\netcoreapp3.1\ArticleTable.dll
+C:\Users\besen\source\repos\ArticleTable\bin\Debug\netcoreapp3.1\ArticleTable.pdb
+C:\Users\besen\source\repos\ArticleTable\obj\Debug\netcoreapp3.1\ArticleTable.csprojAssemblyReference.cache
+C:\Users\besen\source\repos\ArticleTable\obj\Debug\netcoreapp3.1\ArticleTable.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\ArticleTable\obj\Debug\netcoreapp3.1\ArticleTable.AssemblyInfo.cs
+C:\Users\besen\source\repos\ArticleTable\obj\Debug\netcoreapp3.1\ArticleTable.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\ArticleTable\obj\Debug\netcoreapp3.1\ArticleTable.dll
+C:\Users\besen\source\repos\ArticleTable\obj\Debug\netcoreapp3.1\ArticleTable.pdb
+C:\Users\besen\source\repos\ArticleTable\obj\Debug\netcoreapp3.1\ArticleTable.genruntimeconfig.cache
