@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\Personnes\obj\Debug\netcoreapp3.1\Personnes.csprojAssemblyReference.cache
+C:\Users\besen\source\repos\Personnes\obj\Debug\netcoreapp3.1\Personnes.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\Personnes\obj\Debug\netcoreapp3.1\Personnes.AssemblyInfo.cs
+C:\Users\besen\source\repos\Personnes\obj\Debug\netcoreapp3.1\Personnes.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\Personnes\bin\Debug\netcoreapp3.1\Personnes.exe
+C:\Users\besen\source\repos\Personnes\bin\Debug\netcoreapp3.1\Personnes.deps.json
+C:\Users\besen\source\repos\Personnes\bin\Debug\netcoreapp3.1\Personnes.runtimeconfig.json
+C:\Users\besen\source\repos\Personnes\bin\Debug\netcoreapp3.1\Personnes.runtimeconfig.dev.json
+C:\Users\besen\source\repos\Personnes\bin\Debug\netcoreapp3.1\Personnes.dll
+C:\Users\besen\source\repos\Personnes\bin\Debug\netcoreapp3.1\Personnes.pdb
+C:\Users\besen\source\repos\Personnes\obj\Debug\netcoreapp3.1\Personnes.dll
+C:\Users\besen\source\repos\Personnes\obj\Debug\netcoreapp3.1\Personnes.pdb
+C:\Users\besen\source\repos\Personnes\obj\Debug\netcoreapp3.1\Personnes.genruntimeconfig.cache
