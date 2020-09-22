@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.exe
+C:\Users\besen\source\repos\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.deps.json
+C:\Users\besen\source\repos\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.runtimeconfig.json
+C:\Users\besen\source\repos\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.runtimeconfig.dev.json
+C:\Users\besen\source\repos\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.dll
+C:\Users\besen\source\repos\SocieteTableau\bin\Debug\netcoreapp3.1\SocieteTableau.pdb
+C:\Users\besen\source\repos\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.csprojAssemblyReference.cache
+C:\Users\besen\source\repos\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.AssemblyInfo.cs
+C:\Users\besen\source\repos\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.dll
+C:\Users\besen\source\repos\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.pdb
+C:\Users\besen\source\repos\SocieteTableau\obj\Debug\netcoreapp3.1\SocieteTableau.genruntimeconfig.cache
