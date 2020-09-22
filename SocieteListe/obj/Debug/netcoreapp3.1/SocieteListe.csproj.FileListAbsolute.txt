@@ -1,0 +1,12 @@
+C:\Users\besen\source\repos\SocieteListe\bin\Debug\netcoreapp3.1\SocieteListe.exe
+C:\Users\besen\source\repos\SocieteListe\bin\Debug\netcoreapp3.1\SocieteListe.deps.json
+C:\Users\besen\source\repos\SocieteListe\bin\Debug\netcoreapp3.1\SocieteListe.runtimeconfig.json
+C:\Users\besen\source\repos\SocieteListe\bin\Debug\netcoreapp3.1\SocieteListe.runtimeconfig.dev.json
+C:\Users\besen\source\repos\SocieteListe\bin\Debug\netcoreapp3.1\SocieteListe.dll
+C:\Users\besen\source\repos\SocieteListe\bin\Debug\netcoreapp3.1\SocieteListe.pdb
+C:\Users\besen\source\repos\SocieteListe\obj\Debug\netcoreapp3.1\SocieteListe.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\SocieteListe\obj\Debug\netcoreapp3.1\SocieteListe.AssemblyInfo.cs
+C:\Users\besen\source\repos\SocieteListe\obj\Debug\netcoreapp3.1\SocieteListe.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\SocieteListe\obj\Debug\netcoreapp3.1\SocieteListe.dll
+C:\Users\besen\source\repos\SocieteListe\obj\Debug\netcoreapp3.1\SocieteListe.pdb
+C:\Users\besen\source\repos\SocieteListe\obj\Debug\netcoreapp3.1\SocieteListe.genruntimeconfig.cache
