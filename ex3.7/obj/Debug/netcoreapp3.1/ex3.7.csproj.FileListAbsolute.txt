@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\ex3.7\bin\Debug\netcoreapp3.1\ex3.7.exe
+C:\Users\besen\source\repos\ex3.7\bin\Debug\netcoreapp3.1\ex3.7.deps.json
+C:\Users\besen\source\repos\ex3.7\bin\Debug\netcoreapp3.1\ex3.7.runtimeconfig.json
+C:\Users\besen\source\repos\ex3.7\bin\Debug\netcoreapp3.1\ex3.7.runtimeconfig.dev.json
+C:\Users\besen\source\repos\ex3.7\bin\Debug\netcoreapp3.1\ex3.7.dll
+C:\Users\besen\source\repos\ex3.7\bin\Debug\netcoreapp3.1\ex3.7.pdb
+C:\Users\besen\source\repos\ex3.7\obj\Debug\netcoreapp3.1\ex3.7.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\ex3.7\obj\Debug\netcoreapp3.1\ex3.7.AssemblyInfo.cs
+C:\Users\besen\source\repos\ex3.7\obj\Debug\netcoreapp3.1\ex3.7.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\ex3.7\obj\Debug\netcoreapp3.1\ex3.7.dll
+C:\Users\besen\source\repos\ex3.7\obj\Debug\netcoreapp3.1\ex3.7.pdb
+C:\Users\besen\source\repos\ex3.7\obj\Debug\netcoreapp3.1\ex3.7.genruntimeconfig.cache
+C:\Users\besen\source\repos\ex3.7\obj\Debug\netcoreapp3.1\ex3.7.csprojAssemblyReference.cache

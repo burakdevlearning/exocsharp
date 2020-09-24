@@ -1,0 +1,13 @@
+C:\Users\besen\source\repos\LinqRequests\bin\Debug\netcoreapp3.1\LinqRequests.exe
+C:\Users\besen\source\repos\LinqRequests\bin\Debug\netcoreapp3.1\LinqRequests.deps.json
+C:\Users\besen\source\repos\LinqRequests\bin\Debug\netcoreapp3.1\LinqRequests.runtimeconfig.json
+C:\Users\besen\source\repos\LinqRequests\bin\Debug\netcoreapp3.1\LinqRequests.runtimeconfig.dev.json
+C:\Users\besen\source\repos\LinqRequests\bin\Debug\netcoreapp3.1\LinqRequests.dll
+C:\Users\besen\source\repos\LinqRequests\bin\Debug\netcoreapp3.1\LinqRequests.pdb
+C:\Users\besen\source\repos\LinqRequests\obj\Debug\netcoreapp3.1\LinqRequests.csprojAssemblyReference.cache
+C:\Users\besen\source\repos\LinqRequests\obj\Debug\netcoreapp3.1\LinqRequests.AssemblyInfoInputs.cache
+C:\Users\besen\source\repos\LinqRequests\obj\Debug\netcoreapp3.1\LinqRequests.AssemblyInfo.cs
+C:\Users\besen\source\repos\LinqRequests\obj\Debug\netcoreapp3.1\LinqRequests.csproj.CoreCompileInputs.cache
+C:\Users\besen\source\repos\LinqRequests\obj\Debug\netcoreapp3.1\LinqRequests.dll
+C:\Users\besen\source\repos\LinqRequests\obj\Debug\netcoreapp3.1\LinqRequests.pdb
+C:\Users\besen\source\repos\LinqRequests\obj\Debug\netcoreapp3.1\LinqRequests.genruntimeconfig.cache
