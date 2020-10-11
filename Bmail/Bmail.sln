@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bmail", "Bmail.csproj", "{081DE64F-EFFB-4DE6-A164-A1B0FE4EB469}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bmail.Business", "..\Bmail.Business\Bmail.Business.csproj", "{20F8BE98-1BF6-49EB-9CBC-F7D0BF5B2419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bmail.Model", "..\Bmail.Model\Bmail.Model.csproj", "{996EF038-A70F-455F-BC8C-59F71E649DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{081DE64F-EFFB-4DE6-A164-A1B0FE4EB469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{081DE64F-EFFB-4DE6-A164-A1B0FE4EB469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{081DE64F-EFFB-4DE6-A164-A1B0FE4EB469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F8BE98-1BF6-49EB-9CBC-F7D0BF5B2419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F8BE98-1BF6-49EB-9CBC-F7D0BF5B2419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F8BE98-1BF6-49EB-9CBC-F7D0BF5B2419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F8BE98-1BF6-49EB-9CBC-F7D0BF5B2419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996EF038-A70F-455F-BC8C-59F71E649DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996EF038-A70F-455F-BC8C-59F71E649DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996EF038-A70F-455F-BC8C-59F71E649DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996EF038-A70F-455F-BC8C-59F71E649DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

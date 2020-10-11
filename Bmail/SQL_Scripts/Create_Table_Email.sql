@@ -7,7 +7,7 @@ BEGIN
         Content nvarchar(max) null,
         Subject nvarchar(200) not null,
         [Format] nvarchar(20) null,
-        Attachments binary null,
+        Attachments binary(128) null,
 		CampaignId int references Campaign(CampaignId)
 
 	)

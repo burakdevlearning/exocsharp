@@ -227,6 +227,7 @@
             this.Controls.Add(this.label1);
             this.Name = "EmailPage";
             this.Text = "EmailPage";
+            this.Load += new System.EventHandler(this.EmailPage_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

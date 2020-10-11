@@ -124,3 +124,5 @@ C:\Users\besen\source\repos\Bmail\obj\Debug\Bmail.pdb
 C:\Users\besen\source\repos\Bmail\obj\Debug\Bmail.csprojAssemblyReference.cache
 C:\Users\besen\source\repos\Bmail\obj\Debug\Bmail.CampaignPage.resources
 C:\Users\besen\source\repos\Bmail\obj\Debug\Bmail.EmailPage.resources
+C:\Users\besen\source\repos\Bmail\obj\Debug\Bmail.ExportPage.resources
+C:\Users\besen\source\repos\Bmail\obj\Debug\Bmail.ImportPage.resources

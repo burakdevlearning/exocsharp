@@ -31,11 +31,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.importToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.campaignsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.emailsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.exportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.campaignsToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.emailsToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -49,6 +44,7 @@
             this.button10 = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.listBox2 = new System.Windows.Forms.ListBox();
+            this.exportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -63,6 +59,7 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.importToolStripMenuItem,
@@ -75,45 +72,10 @@
             // 
             // importToolStripMenuItem
             // 
-            this.importToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.campaignsToolStripMenuItem,
-            this.emailsToolStripMenuItem});
             this.importToolStripMenuItem.Name = "importToolStripMenuItem";
             this.importToolStripMenuItem.Size = new System.Drawing.Size(68, 24);
             this.importToolStripMenuItem.Text = "Import";
-            // 
-            // campaignsToolStripMenuItem
-            // 
-            this.campaignsToolStripMenuItem.Name = "campaignsToolStripMenuItem";
-            this.campaignsToolStripMenuItem.Size = new System.Drawing.Size(166, 26);
-            this.campaignsToolStripMenuItem.Text = "Campaigns";
-            // 
-            // emailsToolStripMenuItem
-            // 
-            this.emailsToolStripMenuItem.Name = "emailsToolStripMenuItem";
-            this.emailsToolStripMenuItem.Size = new System.Drawing.Size(166, 26);
-            this.emailsToolStripMenuItem.Text = "Emails";
-            // 
-            // exportToolStripMenuItem
-            // 
-            this.exportToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.campaignsToolStripMenuItem1,
-            this.emailsToolStripMenuItem1});
-            this.exportToolStripMenuItem.Name = "exportToolStripMenuItem";
-            this.exportToolStripMenuItem.Size = new System.Drawing.Size(66, 24);
-            this.exportToolStripMenuItem.Text = "Export";
-            // 
-            // campaignsToolStripMenuItem1
-            // 
-            this.campaignsToolStripMenuItem1.Name = "campaignsToolStripMenuItem1";
-            this.campaignsToolStripMenuItem1.Size = new System.Drawing.Size(166, 26);
-            this.campaignsToolStripMenuItem1.Text = "Campaigns";
-            // 
-            // emailsToolStripMenuItem1
-            // 
-            this.emailsToolStripMenuItem1.Name = "emailsToolStripMenuItem1";
-            this.emailsToolStripMenuItem1.Size = new System.Drawing.Size(166, 26);
-            this.emailsToolStripMenuItem1.Text = "Emails";
+            this.importToolStripMenuItem.Click += new System.EventHandler(this.importToolStripMenuItem_Click);
             // 
             // button1
             // 
@@ -123,6 +85,7 @@
             this.button1.TabIndex = 3;
             this.button1.Text = "Add";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -142,6 +105,7 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "Update";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -161,6 +125,7 @@
             this.button5.TabIndex = 11;
             this.button5.Text = "View";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -170,6 +135,7 @@
             this.button6.TabIndex = 10;
             this.button6.Text = "Update";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 
@@ -179,6 +145,7 @@
             this.button7.TabIndex = 9;
             this.button7.Text = "Delete";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
@@ -188,6 +155,7 @@
             this.button8.TabIndex = 8;
             this.button8.Text = "Add";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // label2
             // 
@@ -204,8 +172,9 @@
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(91, 36);
             this.button9.TabIndex = 13;
-            this.button9.Text = "Send mail";
+            this.button9.Text = "Send mails";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -215,6 +184,7 @@
             this.button10.TabIndex = 14;
             this.button10.Text = "Send mail";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // listBox1
             // 
@@ -233,6 +203,13 @@
             this.listBox2.Name = "listBox2";
             this.listBox2.Size = new System.Drawing.Size(335, 292);
             this.listBox2.TabIndex = 16;
+            // 
+            // exportToolStripMenuItem
+            // 
+            this.exportToolStripMenuItem.Name = "exportToolStripMenuItem";
+            this.exportToolStripMenuItem.Size = new System.Drawing.Size(66, 24);
+            this.exportToolStripMenuItem.Text = "Export";
+            this.exportToolStripMenuItem.Click += new System.EventHandler(this.exportToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -274,11 +251,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.ToolStripMenuItem campaignsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem emailsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem exportToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem campaignsToolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem emailsToolStripMenuItem1;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button7;
@@ -288,6 +260,7 @@
         private System.Windows.Forms.Button button10;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.ToolStripMenuItem exportToolStripMenuItem;
     }
 }
 

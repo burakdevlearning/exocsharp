@@ -33,6 +33,12 @@ namespace Bmail.Dao
 
         public async Task<bool> Delete(Campaign entity)
         {
+            // Removing every email from db in the campaign to delete
+            foreach(Email m in context.Email.Where(em => em.CampaignId == entity.CampaignId).ToList())
+            {
+                context.Email.Remove(m);
+            }
+
             var campaign = context.Campaign.Remove(entity);
 
             await this.context.SaveChangesAsync();
